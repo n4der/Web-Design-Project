@@ -5,6 +5,7 @@ This is a simple website project creatd for COMP20030 Web Design 2014-2015 modul
 Information about the the content of the website 
 
 **Name of the website:**  Discover Spain.
+
 **Aim of the website:** To Promote and provide information about some popular holiday
 destination. In this case I picked Spain.
 
@@ -102,6 +103,7 @@ I made one( cropped the first letter from the logo) and I linked it to the pages
 
 
 **References:**
+
 I do not own most of the materials in this site, all the pictures and the information about Spain
 is from these sites:
 
