@@ -1,6 +1,6 @@
 # Web-Design-Project
 
-This is a simple website project creatd for COMP20030 Web Design 2014-2015 module. 
+This is a simple website project created for COMP20030 Web Design 2014-2015 module. 
 
 Information about the the content of the website 
 
