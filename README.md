@@ -12,8 +12,11 @@ destination. In this case I picked Spain.
 
 
 I have selected three main cites in Spain
+
 1. Madrid
+
 2. Barcelona
+
 3. Cordoba
 
 
@@ -30,9 +33,13 @@ website and how they can contact us.
 **Tools used for building this site:**
 
 1.Dreamweaver (for coding and designing)
+
 2.Adobe illustrator/Photoshop (for logo design/icon)
+
 3.Google map api (for maps)
+
 4.Flexslider (for the slideshow in index.html)
+
 5.HTML5, CSS3, JavaScript
 
 **Website structure/design:**
