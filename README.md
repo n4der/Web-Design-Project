@@ -1,6 +1,6 @@
 # Web-Design-Project
 
-This is a simple website project creatd for COMP20030 Web Design 2014-2015 moudle. 
+This is a simple website project creatd for COMP20030 Web Design 2014-2015 module. 
 
 Information about the the content of the website 
 
@@ -63,8 +63,7 @@ I have integrated flexslidercss, jquery and flexsliderjs by following source cod
     <scriptsrc="js/jquery.min.js"></script>
     <scriptsrc="flexslider/jquery.flexslider-min.js"></script>Web Design
 
-In html, the div must be defined by flexslider class. And the images has to be under the <ul>
-tag.
+In html, the div must be defined by flexslider class. And the images has to be under the tag.
 
     <div class="flexslider">
     <ul>
@@ -105,8 +104,13 @@ I made one( cropped the first letter from the logo) and I linked it to the pages
 **References:**
 I do not own most of the materials in this site, all the pictures and the information about Spain
 is from these sites:
+
 1. https://www.wikipedia.org/
+
 2. http://www.tourspain.org/
+
 3. http://www.hotels.com/
+
 4. http://www.spain.info/
+
 5. http://spainguides.com/
